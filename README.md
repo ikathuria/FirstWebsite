@@ -4,4 +4,4 @@ A project made while learning CSS with the help of the CSS Essential Training co
 
 # [My finished project](https://ikathuria.github.io/css-project/)
 
-[Image](images/thumbs-up.jpg)
+![Image](https://unsplash.com/photos/4Vg6ez9jaec)
